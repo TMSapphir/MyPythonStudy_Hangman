@@ -9,6 +9,12 @@ Hello! I'm Tiziano! This is my second repository! I'm currently learning more ab
 ## 🛠️ Project: The Game
 
 
+## Arguments: what i'm learning?
+In this project I've trained and experimented 
+
+- **modules:** This is my first time that i've used modules in python to separate the work in the code. I have to admit: it seems complicated at first, but it actually made my job much easier because it was easier to read and debug. I definitely think I'll be using modules for everything from now on.
+- **ASCI design:** Yeah! I drew all the stages of the hanged man. It was easier than I initially imagined, and thanks to the .append() function, it was also easy to create the list of images.
+- **random:** I've tryied to use some random command to randomize the correct word. It's simple because I've not studied yet the randon library.
 
 The Repository has 2 folder
 
@@ -61,6 +67,7 @@ The Repository has 2 folder
 ---
 
 Project created by **TMSapphir** during the Python study program. 😊👋
+
 
 
 
