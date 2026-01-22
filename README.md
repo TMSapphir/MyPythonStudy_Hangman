@@ -59,5 +59,7 @@ The Repository has 2 folder
 
 
 ---
-Progetto realizzato da **TMSapphir** durante il percorso di studio Python. 😊👋
+
+Project created by **TMSapphir** during the Python study program. 😊👋
+
 
