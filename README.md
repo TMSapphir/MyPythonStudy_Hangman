@@ -6,7 +6,7 @@ Hello! I'm Tiziano! This is my second repository! I'm currently learning more ab
 
 
 
-## 🛠️ Project: The Game
+
 
 
 ## Arguments: what i'm learning?
@@ -25,7 +25,7 @@ The Repository has 2 folder
 - **Encrypted Game:** in this folder i tried to implement my old XOR encrypter to indicate missing letters.
 
 
-
+## 🛠️ Project: The Game
 ### 🎉 Normal Game: `Normal`
 
 - In this folder there is the normal game with the `_` indicators
@@ -67,6 +67,7 @@ The Repository has 2 folder
 ---
 
 Project created by **TMSapphir** during the Python study program. 😊👋
+
 
 
 
