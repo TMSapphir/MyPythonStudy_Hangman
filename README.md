@@ -58,3 +58,6 @@ The Repository has 2 folder
 
 \- \*\*The Encryption Key:\*\* the poem that makes up the encryption key is stored in `def\_keymaster.py` 
 
+
+---
+Progetto realizzato da **TMSapphir** durante il percorso di studio Python. 😊👋
