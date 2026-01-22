@@ -9,7 +9,7 @@ Hello! I'm Tiziano! This is my second repository! I'm currently learning more ab
 
 
 
-## Arguments: what i'm learning?
+## 🤓 Arguments: what i'm learning?
 In this project I've trained and experimented 
 
 - **modules:** This is my first time that i've used modules in python to separate the work in the code. I have to admit: it seems complicated at first, but it actually made my job much easier because it was easier to read and debug. I definitely think I'll be using modules for everything from now on.
@@ -69,6 +69,7 @@ The Repository has 2 folder
 ---
 
 Project created by **TMSapphir** during the Python study program. 😊👋
+
 
 
 
