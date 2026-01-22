@@ -16,6 +16,11 @@ In this project I've trained and experimented
 - **ASCI design:** Yeah! I drew all the stages of the hanged man. It was easier than I initially imagined, and thanks to the .append() function, it was also easy to create the list of images.
 - **random:** I've tryied to use some random command to randomize the correct word. It's simple because I've not studied yet the randon library.
 
+
+
+
+## 🛠️ Project: The Game
+
 The Repository has 2 folder
 
 
@@ -23,9 +28,6 @@ The Repository has 2 folder
 - **Normal Game:** in this folder, i've replicated a normal Handman game. The missing letters are indicated with `_`.
 
 - **Encrypted Game:** in this folder i tried to implement my old XOR encrypter to indicate missing letters.
-
-
-## 🛠️ Project: The Game
 ### 🎉 Normal Game: `Normal`
 
 - In this folder there is the normal game with the `_` indicators
@@ -67,6 +69,7 @@ The Repository has 2 folder
 ---
 
 Project created by **TMSapphir** during the Python study program. 😊👋
+
 
 
 
