@@ -20,7 +20,7 @@ The Repository has 2 folder
 
 
 
-### 🎉 Normal Game: `Normal.rar`
+### 🎉 Normal Game: `Normal`
 
 - In this folder there is the normal game with the `_` indicators
 
@@ -34,7 +34,7 @@ The Repository has 2 folder
 
 
 
-### 🔐 Encrypted Game: `Encrypted.rar`
+### 🔐 Encrypted Game: `Encrypted`
 
 
 
@@ -61,6 +61,7 @@ The Repository has 2 folder
 ---
 
 Project created by **TMSapphir** during the Python study program. 😊👋
+
 
 
 
