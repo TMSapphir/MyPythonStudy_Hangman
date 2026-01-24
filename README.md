@@ -1,4 +1,4 @@
-# MyPythonJourney: Hangman Game 🪝😨
+# 🐍 MyPythonJourney: Hangman Game 🪝😨
 
 
 
@@ -69,6 +69,7 @@ The Repository has 2 folder
 ---
 
 Project created by **TMSapphir** during the Python study program. 😊👋
+
 
 
 
